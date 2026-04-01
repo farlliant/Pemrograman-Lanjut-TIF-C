@@ -27,7 +27,7 @@ Setiap materi dikelola secara terstruktur berdasarkan **Modul BAB Praktikum** ag
 | **03** | Overload dan Overload Method | ✅ |
 | **04** | Encapsulation | ✅ |
 | **05** | Static Modifier dan Konstanta Final | ✅ |
-| **06** | Inheritance | ⏳ |
+| **06** | Inheritance | ✅ |
 | **07** | Polymorfisme | ⏳ |
 | **08** | Interface | ⏳ |
 | **09** | GUI | ⏳ |
