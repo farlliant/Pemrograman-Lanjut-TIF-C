@@ -6,7 +6,7 @@ public interface Comparable {
     public void compareTo(Object obj);
 }
 
-public class Rectangle implements Colorable, Comparable { //class rectangle
+public class Rectangle implements Colorable, Comparable { 
     private String warna;
     private int kategori;
 
@@ -34,7 +34,6 @@ public class Rectangle implements Colorable, Comparable { //class rectangle
         }
     }
 }
-
 public static void main(String[] args) {
     Rectangle kotak1 = new Rectangle("merah");
     Rectangle kotak2 = new Rectangle();
