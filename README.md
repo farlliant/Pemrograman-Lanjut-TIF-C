@@ -28,8 +28,8 @@ Setiap materi dikelola secara terstruktur berdasarkan **Modul BAB Praktikum** ag
 | **04** | Encapsulation | ✅ |
 | **05** | Static Modifier dan Konstanta Final | ✅ |
 | **06** | Inheritance | ✅ |
-| **07** | Polymorfisme | ⏳ |
-| **08** | Interface | ⏳ |
+| **07** | Polymorfisme | ✅ |
+| **08** | Interface | ✅ |
 | **09** | GUI | ⏳ |
 | **10** | Operasi File | ⏳ |
 | **11** | Sorting dan Searching | ⏳ |
