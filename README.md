@@ -30,7 +30,7 @@ Setiap materi dikelola secara terstruktur berdasarkan **Modul BAB Praktikum** ag
 | **06** | Inheritance | ✅ |
 | **07** | Polymorfisme | ✅ |
 | **08** | Interface | ✅ |
-| **09** | GUI | ⏳ |
+| **09** | GUI | ✅ |
 | **10** | Operasi File | ⏳ |
 | **11** | Sorting dan Searching | ⏳ |
 
