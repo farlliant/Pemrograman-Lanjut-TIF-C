@@ -12,7 +12,7 @@
 Selamat datang di repository **Source Code Praktikum Pemrograman Lanjut TIF-C** 👩‍💻✨
 
 Repository ini merupakan wadah dokumentasi untuk seluruh implementasi kode program yang disusun selama kegiatan praktikum. 
-Setiap materi dikelola secara terstruktur berdasarkan **Modul BAB Praktikum** agar mudah dipelajari, dijalankan, dan dikembangkan kembali.
+Setiap materi dikelola secara terstruktur berdasarkan **Modul Praktikum Pemrograman Lanjut Teknik Informatika 2026** agar mudah dipelajari, dijalankan, dan dikembangkan kembali.
 
 </div>
 
@@ -30,7 +30,7 @@ Setiap materi dikelola secara terstruktur berdasarkan **Modul BAB Praktikum** ag
 | **06** | Inheritance | ✅ |
 | **07** | Polymorfisme | ✅ |
 | **08** | Interface | ✅ |
-| **09** | GUI | ⏳ |
+| **09** | GUI | ✅ |
 | **10** | Operasi File | ⏳ |
 | **11** | Sorting dan Searching | ⏳ |
 
