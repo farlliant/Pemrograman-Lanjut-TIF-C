@@ -31,8 +31,8 @@ Setiap materi dikelola secara terstruktur berdasarkan **Modul Praktikum Pemrogra
 | **07** | Polymorfisme | ✅ |
 | **08** | Interface | ✅ |
 | **09** | GUI | ✅ |
-| **10** | Operasi File | ⏳ |
-| **11** | Sorting dan Searching | ⏳ |
+| **10** | Operasi File | ✅ |
+| **11** | Sorting dan Searching | ✅ |
 
 ---
 
